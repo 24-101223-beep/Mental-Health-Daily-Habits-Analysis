@@ -32,3 +32,5 @@ habits) significantly influence an individual's mood and stress levels?
 - `Project_3_final.ipynb` — full analysis notebook
 - `FINAL_Report2.docx` — written report
 - `How-Daily-Habits-Shape-Mental-Health.pptx` — presentation
+## Presentation
+[View Presentation](https://docs.google.com/presentation/d/1zdoILvu_KwItGm9Px2dWvbifeUknlU3S/edit?usp=sharing)
